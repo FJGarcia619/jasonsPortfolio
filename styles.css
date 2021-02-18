@@ -1,0 +1,52 @@
+#skills{
+    border-left: 2px solid black;
+    text-align: right;
+    margin-left: 350px;
+}
+
+#jobs{
+    padding-left: 5%;
+}
+.progress{
+
+margin-bottom: 2%;
+}
+#contactForm{
+    margin-left:350px ;
+    margin-right:-350px ;
+    padding-top: 50px;
+    text-align: center;
+    
+}
+
+.form-control{
+    border: 2px solid black;
+}
+#button{
+    margin-top: 25px;
+}
+
+.grid {
+    width: auto;
+ }
+ 
+ .icons {
+     text-align:center;
+     margin-left: 735px;
+ }
+
+ footer {
+    text-align: center;
+    padding: 3px;
+    background-color: darkslategray;
+    color: white;
+    margin-top: 400px;
+  }
+
+  .row img{
+      float: left;
+    padding-top: 25px;
+    padding-right: 15px;
+    padding-bottom: 25px;
+    padding-left: 15px;
+  }
